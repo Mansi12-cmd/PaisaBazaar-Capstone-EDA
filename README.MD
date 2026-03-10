@@ -51,3 +51,11 @@ Created visualizations such as:
 ---
 
 ## 📂 Repository Structure
+PaisaBazaar-Credit-Score-Analysis
+│
+├── PaisaBazaar_Credit_Score_EDA.ipynb
+├── Dataset/
+│ └── paisabazaar_dataset.csv
+├── Visuals/
+│ └── charts.png
+└── README.md
