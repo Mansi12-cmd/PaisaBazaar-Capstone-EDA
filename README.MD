@@ -1,16 +1,53 @@
 
 # Paisabazaar Credit Score Analysis 📈
 
-This project performs an Exploratory Data Analysis (EDA) on the Paisabazaar dataset to understand credit score patterns and customer behavior.
+# 📊 Paisabazaar Credit Score Analysis (EDA)
 
-## ✨ Features
-- Data Cleaning and Preprocessing.
-- Visualization of Credit Score distribution.
-- Analysis of factors affecting loan eligibility.
+## 📝 Project Overview
+This project performs **Exploratory Data Analysis (EDA)** on the Paisabazaar credit dataset to understand customer credit behavior and financial patterns.  
+The analysis focuses on identifying key factors that influence **credit score, income distribution, and financial stability** using Python-based data analysis techniques.
 
-## 🛠️ Tools Used
-- Python (Google Colab)
-- Pandas, Seaborn, and Matplotlib
+---
 
-## 🚀 How to use
-You can view the analysis by opening the `.ipynb` file directly in GitHub or clicking the 'Open in Colab' button inside the notebook.
+## 🎯 Project Objectives
+- Analyze customer credit score distribution.
+- Identify relationships between **income, age, and credit score**.
+- Detect patterns in customer financial behavior.
+- Provide **data-driven insights** for better credit risk assessment.
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Environment:** Jupyter Notebook / Google Colab
+
+---
+
+## 🔎 Data Analysis Process
+
+### 1️⃣ Data Cleaning
+- Handled missing values
+- Removed duplicate records
+- Treated outliers for better analysis
+
+### 2️⃣ Univariate Analysis
+- Examined distribution of **credit scores**
+- Studied **income and age distributions**
+
+### 3️⃣ Bivariate Analysis
+- Analyzed relationships between:
+  - Age vs Credit Score
+  - Income vs Credit Score
+  - Credit Score vs Financial behavior
+
+### 4️⃣ Data Visualization
+Created visualizations such as:
+- Bar Charts
+- Histograms
+- Correlation Heatmaps
+- Distribution plots
+
+---
+
+## 📂 Repository Structure
